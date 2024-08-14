@@ -116,12 +116,7 @@
             "api": "csp_SP360"
         },
 
-        {
-            "key": "笙歌影视",
-            "name": "盒软迷 | 笙歌",
-            "type": 3,
-            "api": "csp_YY"
-        },
+
         {
             "key": "csp_北川",
             "name": "盒软迷 | 北川",
@@ -179,30 +174,14 @@
             "api": "http://cdn.teyonds.com/js/drpy2.min.js"
         },
 
-        {
-            "key": "热播影视",
-            "name": "盒软迷 | 热播",
-            "type": 3,
-            "api": "csp_RB"
-        },
-        {
-            "key": "大米星球",
-            "name": "盒软迷 | 大米",
-            "type": 3,
-            "api": "csp_DaMi"
-        },
+
         {
             "key": "疯狗影视",
             "name": "盒软迷 | 疯狗",
             "type": 3,
             "api": "csp_FengGo"
         },
-        {
-            "key": "天天影视",
-            "name": "盒软迷 | 天天",
-            "type": 3,
-            "api": "csp_TT"
-        },
+
         {
             "key": "快看影视",
             "name": "盒软迷 | 快看",
@@ -276,12 +255,7 @@
             "type": 3,
             "api": "csp_WebIV"
         },
-        {
-            "key": "苹果影视",
-            "name": "盒软迷 | 苹果",
-            "type": 3,
-            "api": "csp_Litele"
-        },
+
         {
             "key": "视频库",
             "name": "盒软迷 | 视频",
@@ -302,13 +276,7 @@
             "api": "csp_Ikanbot",
             "ext": "https://v.aikanbot.com"
         },
-        {
-            "key": "厂长资源",
-            "name": "盒软迷 | 厂长",
-            "type": 3,
-            "api": "csp_Czs",
-            "ext": "https://www.czys.pro/"
-        },
+
 
 
 
@@ -448,17 +416,6 @@
 
 
 
-        {
-            "key": "hipy_js_爱车MV",
-            "name": "盒软迷 | MV",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 76,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_js/爱车MV.js"
-        },
 
 
 
@@ -566,62 +523,8 @@
         },
 
 
-        {
-            "key": "hipy_js_4k剧院",
-            "name": "盒软迷 | 4k",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_js/4k剧院.js"
-        },
 
-        {
-            "key": "hipy_js_策驰影院(自动)",
-            "name": "盒软迷 | 策驰",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_js/策驰影院(自动).js"
-        },
-        {
-            "key": "hipy_js_即看影视",
-            "name": "盒软迷 | 即看",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_js/即看影视.js"
-        },
-        {
-            "key": "hipy_js_冠建影视",
-            "name": "盒软迷 | 冠建",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_js/冠建影视.js"
-        },
-        {
-            "key": "hipy_js_白嫖者联盟",
-            "name": "盒软迷 | 白嫖",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/sjbox-cat/main/drpy_js/白嫖者联盟.js"
-        },
+
 
         {
             "key": "素白白",
@@ -667,26 +570,7 @@
 
 
 
-        {
-            "key": "不卡影视",
-            "name": "盒软迷 | 不卡",
-            "type": 3,
-            "api": "csp_",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "PuMSXHTlG7XuTPHibOyZteVY1Bbl6ZlsngCB5cB1aT58PUe5B3fTqNqjFlBRB9gUMb3sBH9Ft54h0DfIM8NZXSQZqL75gkSizgP2bD/FXuU7p8/Atv6nfoWFwgWWXehi2e2bdvWuIZd/iTHBLXJLOErvkwen7BleeOnRa7QzqB9XmOsv/M7AccHoiKa8JPMRfdXDPQT4Edlrk+Fij03D/m66ytOrnl7W4tGxo7UmbtKLKuR1Tr2ureKLLfmEqHCOdCwtqw2Bgi/NNxDXZQAx5ihHKNNipXEDhBXyQBJgfnsuxCd95h1gj845lEYqc/PK/WI9fbWCuQMfd50aPtxG/rRQjPClzRSEk+KOpz9njtQ="
-        },
-        {
-            "key": "摩托影视",
-            "name": "盒软迷 | 摩托",
-            "type": 3,
-            "api": "csp_",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"
-        },
+
 
 
 
@@ -699,21 +583,7 @@
             "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/短剧天堂.json"
         },
 
-        {
-            "key": "hipy_js_榜一短剧",
-            "name": "盒软迷 | 榜一短剧",
-            "type": 3,
-            "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-            "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/榜一短剧.js"
-        },
 
-        {
-            "key": "hipy_js_星芽短剧",
-            "name": "盒软迷 | 星芽短剧",
-            "type": 3,
-            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
-            "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/星芽短剧.js"
-        },
         {
             "key": "dr_卫士",
             "name": "🅾️主力",
@@ -763,112 +633,7 @@
             "api": "csp_XBPQ",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/南坊.json"
         },
-        {
-            "key": "奴娜",
-            "name": "🏧奴娜",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "https://www.nntv.in/api.php/v1.vod"
-        },
-        {
-            "key": "异界",
-            "name": "🏧异界",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "http://ysjtv.yy365.vip/api.php//"
-        },
-        {
-            "key": "沐沐",
-            "name": "🏧沐沐",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "https://nnystv.cn/api.php//"
-        },
-        {
-            "key": "星球",
-            "name": "🏧奈飞",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "https://www.netfly.tv/api.php//"
-        },
-        {
-            "key": "鸭飞",
-            "name": "🏧鸭飞",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "https://yanetflix.me/api.php//"
-        },
-        {
-            "key": "剧兔",
-            "name": "🏧剧兔",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "https://www.zjtu.one/api.php//"
-        },
-        {
-            "key": "小马",
-            "name": "🏧小马",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "https://mas.szyyds.cn/api.php//"
-        },
-        {
-            "key": "柠檬",
-            "name": "🏧柠檬",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "http://mf.songshu.cyou/api.php//"
-        },
 
-        {
-            "key": "零刻",
-            "name": "🏧零刻",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "千神",
-            "name": "🏧千神",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "https://www.56aq.com/api.php//"
-        },
-        {
-            "key": "西瓜",
-            "name": "🏧西瓜",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "http://4k.953365.cn:8090/xg.php/v2/"
-        },
-        {
-            "key": "酷我",
-            "name": "🏧酷我",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "看剧",
-            "name": "🏧爱看",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "https://www.ikanju.cc/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "雷神",
-            "name": "🏧雷神",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "http://39.98.32.241:6688/api.php/zjv3.vod"
-        },
-        {
-            "key": "追忆",
-            "name": "🏧追忆",
-            "type": 3,
-            "api": "csp_YsV2",
-            "ext": "http://110.42.7.101:1122/api.php//"
-        },
 
         {
             "key": "三六资源",
@@ -910,18 +675,7 @@
             "type": 1,
             "api": "https://www.lezy.lol/api.php/provide/vod/"
         },
-        {
-            "key": "映迷资源",
-            "name": "🌀映迷快播",
-            "type": 1,
-            "api": "https://www.inmi./api.php/provide/vod/"
-        },
-        {
-            "key": "易看资源",
-            "name": "🌀易看快播",
-            "type": 1,
-            "api": "http://tv.ykzj6.cn/api.php/provide/vod/"
-        },
+
         {
             "key": "影猫资源",
             "name": "🌀影猫快播",
@@ -994,12 +748,7 @@
             "type": 1,
             "api": "https://www.zhuijuju.net/api.php/provide/vod/"
         },
-        {
-            "key": "一舟影院",
-            "name": "🌀一舟采集",
-            "type": 1,
-            "api": "http://www.mandao.site/api.php/provide/vod/"
-        },
+
         {
             "key": "无忧资源",
             "name": "🌀无忧采集",
@@ -1012,12 +761,7 @@
             "type": 1,
             "api": "https://www.nmnm.cc/api.php/provide/vod/"
         },
-        {
-            "key": "三八资源",
-            "name": "🌀三八采集",
-            "type": 1,
-            "api": "https://vod38.com/api.php/provide/vod/"
-        },
+
         {
             "key": "淘片采集",
             "name": "🌀淘片采集",
@@ -1048,12 +792,7 @@
             "type": 1,
             "api": "https://hong.hgyx.vip/api.php/provide/vod/"
         },
-        {
-            "key": "剧狗影视",
-            "name": "🌀剧狗快播",
-            "type": 1,
-            "api": "https://www.youmuz.cn/api.php/provide/vod/"
-        },
+
         {
             "key": "Yinyuetai",
             "name": "🎧音悦MV",
@@ -1249,44 +988,8 @@
             "filterable": 1,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/Bili.jar;md5;9aa3056172a51253a05157850fc5920b",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/ext/gaozhong.json"
-        },
-        {
-            "key": "Anime1",
-            "name": "盒软迷 | 动漫",
-            "type": 3,
-            "api": "https://yubox.xyz/drpy_libs/drpy2.min.js",
-            "ext": "https://yubox.xyz/drpy_js/an.js"
-        },
-        {
-            "key": "tu",
-            "name": "👼🏻兔兔",
-            "type": 3,
-            "api": "csp_WebRabbit",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": "https://tuxiaobei.com"
-        },
-
-
-        {
-            "key": "push_agent",
-            "name": "🥇推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
-            },
-            "jar": "http://47.99.102.252/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
         }
+
     ],
     "parses": [
 
@@ -1641,7 +1344,7 @@
     "lives": [{
         "name": "live",
         "type": 0,
-        "url": "http://47.99.102.252/live.txt",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/18/main/04.txt",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
